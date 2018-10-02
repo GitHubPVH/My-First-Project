@@ -16,12 +16,7 @@ namespace ClientApp
             conn = new SqlConnection("SERVER = DESKTOP-P94RDLC;Database=NeverGiveUp;uid=sa;pwd=12345");
             return conn;
         }
-        public bool CheckLogin(string user, string pass)
-        {
-            string sql = "SELECT * FROM AccountStudent WHERE _userS =@u and _password=@p";
-            SqlCommand cmd = new SqlCommand();
-            cmd.CommandText = sql;
-            cmd.Connection = GetConnection();
+       GetConnection();
             cmd.Connection.Open();
             cmd.Parameters.AddWithValue("@u", user);
             cmd.Parameters.AddWithValue("@p", pass);
