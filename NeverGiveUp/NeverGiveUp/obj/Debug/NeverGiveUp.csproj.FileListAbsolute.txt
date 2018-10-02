@@ -1,0 +1,14 @@
+C:\Users\PA\Downloads\VISual\NeverGiveUp\NeverGiveUp\bin\Debug\NeverGiveUp.exe.config
+C:\Users\PA\Downloads\VISual\NeverGiveUp\NeverGiveUp\bin\Debug\NeverGiveUp.exe
+C:\Users\PA\Downloads\VISual\NeverGiveUp\NeverGiveUp\bin\Debug\NeverGiveUp.pdb
+C:\Users\PA\Downloads\VISual\NeverGiveUp\NeverGiveUp\obj\Debug\NeverGiveUp.csprojAssemblyReference.cache
+C:\Users\PA\Downloads\VISual\NeverGiveUp\NeverGiveUp\obj\Debug\NeverGiveUp.Login.resources
+C:\Users\PA\Downloads\VISual\NeverGiveUp\NeverGiveUp\obj\Debug\NeverGiveUp.Properties.Resources.resources
+C:\Users\PA\Downloads\VISual\NeverGiveUp\NeverGiveUp\obj\Debug\NeverGiveUp.csproj.GenerateResource.cache
+C:\Users\PA\Downloads\VISual\NeverGiveUp\NeverGiveUp\obj\Debug\NeverGiveUp.csproj.CoreCompileInputs.cache
+C:\Users\PA\Downloads\VISual\NeverGiveUp\NeverGiveUp\obj\Debug\NeverGiveUp.exe
+C:\Users\PA\Downloads\VISual\NeverGiveUp\NeverGiveUp\obj\Debug\NeverGiveUp.pdb
+C:\Users\PA\Downloads\VISual\NeverGiveUp\NeverGiveUp\obj\Debug\NeverGiveUp.Addnew.resources
+C:\Users\PA\Downloads\VISual\NeverGiveUp\NeverGiveUp\obj\Debug\NeverGiveUp.CreateExam.resources
+C:\Users\PA\Downloads\VISual\NeverGiveUp\NeverGiveUp\obj\Debug\NeverGiveUp.EditQuestion.resources
+C:\Users\PA\Downloads\VISual\NeverGiveUp\NeverGiveUp\obj\Debug\NeverGiveUp.MnAdmin.resources

@@ -1,0 +1,11 @@
+C:\Users\PA\Downloads\VISual\NeverGiveUp\ClientApp\bin\Debug\ClientApp.exe.config
+C:\Users\PA\Downloads\VISual\NeverGiveUp\ClientApp\bin\Debug\ClientApp.exe
+C:\Users\PA\Downloads\VISual\NeverGiveUp\ClientApp\bin\Debug\ClientApp.pdb
+C:\Users\PA\Downloads\VISual\NeverGiveUp\ClientApp\obj\Debug\ClientApp.csprojAssemblyReference.cache
+C:\Users\PA\Downloads\VISual\NeverGiveUp\ClientApp\obj\Debug\ClientApp.Login.resources
+C:\Users\PA\Downloads\VISual\NeverGiveUp\ClientApp\obj\Debug\ClientApp.Properties.Resources.resources
+C:\Users\PA\Downloads\VISual\NeverGiveUp\ClientApp\obj\Debug\ClientApp.Test.resources
+C:\Users\PA\Downloads\VISual\NeverGiveUp\ClientApp\obj\Debug\ClientApp.csproj.GenerateResource.cache
+C:\Users\PA\Downloads\VISual\NeverGiveUp\ClientApp\obj\Debug\ClientApp.csproj.CoreCompileInputs.cache
+C:\Users\PA\Downloads\VISual\NeverGiveUp\ClientApp\obj\Debug\ClientApp.exe
+C:\Users\PA\Downloads\VISual\NeverGiveUp\ClientApp\obj\Debug\ClientApp.pdb
