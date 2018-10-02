@@ -31,21 +31,6 @@ namespace ClientApp
             cmd.Connection.Close();
             return result;
         }
-        public bool CheckLogin1(string user, string pass)
-        {
-            string sql = "SELECT * FROM AccountStudent WHERE _userS =@u and _password=@p";
-            SqlCommand cmd = new SqlCommand();
-            cmd.CommandText = sql;
-            cmd.Connection = GetConnection();
-            cmd.Connection.Open();
-            cmd.Parameters.AddWithValue("@u", user);
-            cmd.Parameters.AddWithValue("@p", pass);
-            SqlDataReader rd = cmd.ExecuteReader();
-            bool result = rd.HasRows;
-            rd.Close();
-            cmd.Connection.Close();
-            return result;
-        }
         public List<Questions> GetQuestions()
         {
             List<Questions> list = new List<Questions>();
